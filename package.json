@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Jakub-Domogala.github.io/Games/apple_catcher",
+  "homepage": "https://jakub-domogala.github.io/Apple-Catcher/",
   "name": "apple_catcher",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
